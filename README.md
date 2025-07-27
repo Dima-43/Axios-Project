@@ -4,7 +4,7 @@ This project is a simple Node.js exercise to practice making **HTTP requests usi
 
 ---
 
-## 📦 Setup
+## Setup
 
 1. Initialize a new Node.js project:
    ```bash
